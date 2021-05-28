@@ -1,0 +1,64 @@
+h1 {
+    color: brown;
+}
+
+
+
+.header{
+    background-color: rgb(43, 128, 226);
+    display: flex;
+    justify-content: space-between ;
+}
+
+
+
+.bodyimg{
+    
+
+    display: flex;
+    justify-content: space-between ;
+}
+
+
+.body{
+
+    background-color: rgb(225, 233, 111);
+}
+
+
+
+.grid{
+
+
+display: flex;
+
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+
+.grid img{
+
+    background-color: coral;
+
+    border: 2px solid black;
+
+    border-radius: 50px;
+
+
+}
+
+
+.origami{
+   display: flex;
+    border-radius: 20px;
+    background-color: white;
+    flex-wrap: wrap;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+
+
+
